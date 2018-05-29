@@ -1,0 +1,53 @@
+"/Users/ojm/Documents/CLionProjects/CSC3221 Project 1/cmake-build-debug/CSC3221_Project_1"
+
+/*-----VECTOR3D & BIN TEST OUTPUT-----*/
+
+Key:
+	Failed		==	0
+	Succeeded	==	1
+
+/*-----------VECTOR3D TESTS-----------*/
+
+Get x value: 1
+Get y value: 1
+Get z value: 1
+Compute magnitude: 1
+Determine equality: 1
+Determine inequality: 1
+Copy constructor: 1
+Assignment operator: 1
+Multiplication by a scalar: 1
+Division by a scalar: 1
+Addition of two vectors: 1
+Subtraction of two vectors: 1
+Scalar product: 1
+Vector product: 1
+Unit vector: 1
+Orthogonal unit vector: 1
+
+/*--------------BIN TESTS-------------*/
+
+Copy constructor: 1
+Assignment operator: 1
+Return pointer to first element: 1
+Get a'th co-ordinates: 1
+Remove b'th element and shift: 1
+Out of bounds exceptions thrown: 1
+Dynamic resizing: 1
+
+/*----------PERFORMANCE TEST----------*/
+
+Average bin class execution time
+up to 1e+06 executions: 33916
+
+Average std:vector execution time
+up to 1e+06 executions: 31076
+
+Execution time difference: 2840
+
+Performance: Excellent
+
+/*-----------------END----------------*/
+
+
+Process finished with exit code 0
